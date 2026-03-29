@@ -6,8 +6,9 @@
 
 ## Использование
 
-1. Откройте ноутбук по ссылке:  
+1. Откройте ноутбук по ссылке:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DenisPyankov/MT3-MAGENTA-collab/blob/MT3_only-(colab_fix)/Music_Transcription_with_Transformers.ipynb)
 
 2. Выполните ячейки по порядку
 
