@@ -7,7 +7,7 @@
 ## Использование
 
 1. Откройте ноутбук по ссылке:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ваш_логин/mt3-colab/blob/main/mt3_transcription.ipynb](https://colab.research.google.com/drive/1J-DQiR-5ApB5Jh7ezmhwVt8lV00tEyka?usp=sharing))
+
 
 2. Выполните ячейки по порядку
 
