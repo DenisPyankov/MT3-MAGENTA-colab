@@ -1,5 +1,40 @@
 
+# 🎹 Фортепианная транскрипция из любого аудио
 
+Превратите любую песню или запись в фортепианную MIDI‑партитуру одной кнопкой – всё происходит в облаке, вам не нужно ничего устанавливать.
+
+---
+
+<a href="https://colab.research.google.com/github/DenisPyankov/MT3-MAGENTA-colab/blob/main/colab/PIANO_TRANSCRIPTION.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="400" height="auto">
+</a>
+
+---
+
+## 📥 Как пользоваться
+
+1. **Нажмите на большую кнопку выше** – откроется Google Colab.  
+2. Запустите **ПЕРВУЮ ячейку** `«УСТАНОВКА»`: нажмите кнопку ▶ слева от неё.  
+   *Идёт установка и загрузка модели – это займёт 5‑7 минут. Дождитесь зелёной галочки.*  
+3. Запустите **ВТОРУЮ ячейку** `«ПУСК»`: нажмите ▶.  
+   *Появится кнопка для выбора файла с вашего компьютера.*  
+4. Загрузите аудиофайл (MP3 или WAV) – всё остальное произойдёт автоматически.
+5. Через несколько минут браузер сохранит готовый MIDI‑файл.  
+6. **Готово!**
+
+
+------
+------
+------
+
+# ***ДЛЯ РАЗРАБОТЧИКОВ***
+
+## GRADIO
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DenisPyankov/MT3-MAGENTA-colab/blob/main/colab/GRADIO.ipynb)
+
+- запустить блоки по порядку
+- в последнем блоке ссылка с фронтендом
 
 ## 🔧 Public fixed version (MT3 only)
 
