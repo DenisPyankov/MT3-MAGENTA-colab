@@ -150,7 +150,7 @@ graph LR
 
 **ЗАЩИТА**
 
-[**ПРЕЗА**]](https://docs.google.com/presentation/d/1jabeeYdbWhugLCDfr6FTuks-TCDciL3V-Lgjj1CsxEQ/edit?usp=sharing)
+[**ПРЕЗА**](https://docs.google.com/presentation/d/1jabeeYdbWhugLCDfr6FTuks-TCDciL3V-Lgjj1CsxEQ/edit?usp=sharing)
 
 **СЦЕН**
 - [1](https://docs.google.com/document/d/10-kIObppZ1XcIBQpIA6cJbXD_AsI7Cc0elBUmoBIyXE/edit?usp=sharing)
