@@ -145,10 +145,16 @@ graph LR
 
 [**ТАБЛИЦЫ С АНАЛИЗОМ**](https://docs.google.com/spreadsheets/d/1qiju_Q1Xj7APl7R3Ri5ewP2bYcmp1dgCHuN8-_sx1_w/edit?gid=1447608768#gid=1447608768)
 
+---
+---
 
+**ЗАЩИТА**
 
+[**ПРЕЗА**]](https://docs.google.com/presentation/d/1jabeeYdbWhugLCDfr6FTuks-TCDciL3V-Lgjj1CsxEQ/edit?usp=sharing)
 
-
+**СЦЕН**
+- [1](https://docs.google.com/document/d/10-kIObppZ1XcIBQpIA6cJbXD_AsI7Cc0elBUmoBIyXE/edit?usp=sharing)
+- [2](https://docs.google.com/document/d/1CqMR5hUC0vvnbagu2-yFpAgR3fJj3OuM/edit?usp=sharing&ouid=115122570445739738026&rtpof=true&sd=true)
 
 
 
